@@ -1,0 +1,16 @@
+{
+  "name": "archivos-clase-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node desafio-02.js",
+    "start-dev": "nodemon desafio-02.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
